@@ -1,0 +1,6 @@
+bash.sh
+list.txt
+pipesRedirections.sh
+bash.sh
+list.txt
+pipesRedirections.sh
